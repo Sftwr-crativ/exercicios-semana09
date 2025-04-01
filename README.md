@@ -15,6 +15,7 @@ e) Quando esse commando é executado, um novo objeto da classe AnimalSelvagem é
 
 f) O animal1 cria um novo objeto dentro da classe "Animal", na qual tem apenas tres entradas de parametros. Já o animal2 cria um objeto da classe AnimalSelvagem no qual contem quatro entradas de parametros, sendo tres delas herdadas pela classe "Animal"
 m,
+
 4.
 g) Esse metodo pode ser utilizado nas duas classes pois ele é criado na primeira classe e herdado na segunda, portanto pode ser aplicado nas duas.
 
